@@ -11,6 +11,7 @@ color = gets.chop
 # end
 
 # Lesson 5: Adding an Else Statement
+#
 
 if color == "blue"
   puts "Wow! My favorite color is #{color} also!"
